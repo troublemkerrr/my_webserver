@@ -1,0 +1,3 @@
+/home/parallels/Desktop/my_webserver/CMakeFiles/server.out.dir
+/home/parallels/Desktop/my_webserver/CMakeFiles/edit_cache.dir
+/home/parallels/Desktop/my_webserver/CMakeFiles/rebuild_cache.dir

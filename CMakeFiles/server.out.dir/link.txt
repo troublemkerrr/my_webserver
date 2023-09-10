@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/server.out.dir/http/http_conn.cpp.o CMakeFiles/server.out.dir/main.cpp.o -o server.out  -lpthread 
